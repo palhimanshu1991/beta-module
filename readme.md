@@ -1,1 +1,1 @@
-beta module version 0.1
+beta module version 0.2
